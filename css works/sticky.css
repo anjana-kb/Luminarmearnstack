@@ -1,0 +1,57 @@
+.sticky {
+
+    position: sticky;
+      /* top: 20px;  after scrolling topill ninnu 20px kazhinj sticky aavum */
+     top: 0; 
+    background-color:rebeccapurple;
+
+    width: 100%;
+    height: 100px;
+
+}
+
+/* .fixed {
+    width: 20%;
+    height: 200px;
+    border: 1 px solid black;
+    background-color: cadetblue;
+ position: fixed;
+  top: 20%;
+  left: 60%;
+} */ 
+
+ .row{
+    width: 100%;
+   
+    display: flex;
+    justify-content: space-around;
+  margin-top: 20px;
+}
+
+.col{
+    width: 23%;
+    height: 800px;
+    border: 2px solid black;
+    /* position: relative; */
+  
+}
+
+.col img{
+    width: 100%;
+    height: 400px;
+}
+.rate{
+    width: 100%;
+    height: 30px;
+    border:1px solid black;
+    display: flex;
+ justify-content: center;
+ position: absolute;
+ top: 96%;
+ font-size: 20px;
+}
+.name{
+   font-size: 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+}

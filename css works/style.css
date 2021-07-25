@@ -1,0 +1,19 @@
+
+    h1{
+    color:white;
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-color:black;
+}
+#one{
+    color: #34eb77;
+    text-decoration: none;
+}
+.two{
+    color: rgb(204, 52, 235);
+}
+h3{
+    color: rgb(240, 42, 2);
+}

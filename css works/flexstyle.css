@@ -1,0 +1,25 @@
+.row{
+    width: 100%;
+    height: 500px;
+    background-color:lightslategrey;
+    display: flex;
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+     /* justify-content: space-evenly;  */
+     /* justify-content: flex-end; */
+    /* align-items: center; */
+    /* align-items: flex-start; */
+    /* align-items: flex-end; */
+}
+.col{
+    width: 150px;
+    height: 200px;
+}
+/* first dv nte width kootanm bakki div nnu no change */
+.col-1{
+    flex:1
+}
+/* first and second div width kootti */
+.col-2{
+    flex: 1;
+}
