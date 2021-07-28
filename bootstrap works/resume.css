@@ -1,0 +1,25 @@
+.div1{
+background-color:rgb(99, 147, 209);
+height: 300px;
+width: 350px;
+}
+.div2{
+    padding-top: 100px;
+    padding-left: 60px;
+    background-color:rgb(215, 215, 226);
+    width: 600px;
+}
+.div3{
+    background-color:rgb(196, 213, 235);
+    width: 350px;
+}
+.bold{
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+}
+.div4{
+    background-color: whitesmoke;
+    width: 600px;
+}
